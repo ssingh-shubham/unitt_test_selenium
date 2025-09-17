@@ -1,4 +1,4 @@
-# 🚀 Selenium Unit Testing Project
+#  Selenium Unit Testing Project
 
 ## 📌 Overview
 This project demonstrates how to perform **automated unit testing with Selenium WebDriver in Python** using both `pytest` and `unittest`.  
@@ -9,7 +9,7 @@ The tests in this project focus on validating the **login functionality** of the
 
 ---
 
-## ✨ Features
+##  Features
 - ✅ **Page Object Model (POM)** for better code structure  
 - ✅ **Unit testing with `pytest`** and `unittest` compatibility  
 - ✅ **HTML Reports** generated using `pytest-html`  
@@ -19,7 +19,7 @@ The tests in this project focus on validating the **login functionality** of the
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 ```
 selenium-unit-testing/
 │── tests/
@@ -40,7 +40,7 @@ selenium-unit-testing/
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 1. **Clone this repository**
    ```bash
@@ -62,7 +62,7 @@ selenium-unit-testing/
 
 ---
 
-## ▶️ Running the Tests
+## ▶ Running the Tests
 
 Run the tests with **Pytest**:
 ```bash
@@ -78,7 +78,7 @@ This will:
 
 ---
 
-## 📊 Test Reports
+## Test Reports
 After running the tests, an HTML report will be generated:  
 ```
 report.html
@@ -87,7 +87,7 @@ Simply open this file in any browser to view detailed test execution results wit
 
 ---
 
-## 📸 Screenshots on Failure
+## Screenshots on Failure
 If a test fails, a screenshot of the browser is automatically saved inside the `screenshots/` folder for debugging.
 
 ---
