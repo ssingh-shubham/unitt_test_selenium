@@ -5,7 +5,7 @@ This project demonstrates how to perform **automated unit testing with Selenium 
 It follows the **Page Object Model (POM)** design pattern to keep the test cases clean, modular, and easy to maintain.  
 
 The tests in this project focus on validating the **login functionality** of the sample website:  
-🔗 [The Internet - Login Page](https://the-internet.herokuapp.com/login)
+🔗 [SauceDemo - Login Page](https://www.saucedemo.com/)
 
 ---
 
